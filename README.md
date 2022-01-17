@@ -10,7 +10,7 @@
 <br><hr>
 <h1>✨ Special ✨</h1><br>
 <a href="https://github.com/arno400/210966" style="margin:30px;display:inline;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arno400&repo=210966&theme=radical&hide_border=true&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arno400&repo=Code-1.7&theme=radical&hide_border=true&show_owner=true" />
   </a><br><br>
 <a href="https://github.com/arno400/PWA" style="margin:30px;display:inline;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arno400&repo=PWA&theme=radical&hide_border=true&show_owner=true" />

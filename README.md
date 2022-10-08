@@ -12,9 +12,9 @@
 <a href="https://github.com/arno400/animated-cube" style="margin:30px;display:inline;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arno400&repo=Code-1.7&theme=radical&hide_border=true&show_owner=true" />
   </a><br><br>
-<a href="https://github.com/arno400/Quizzeds" style="margin:30px;display:inline;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arno400&repo=PWA&theme=radical&hide_border=true&show_owner=true" />
-</a>
+<a href="https://github.com/arno400/animated-cube" style="margin:30px;display:inline;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arno400&repo=Code-1.7&theme=radical&hide_border=true&show_owner=true" />
+  </a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arno400&theme=dark)<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arno400&theme=dark)](https://git.io/streak-stats)<br>

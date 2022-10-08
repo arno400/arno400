@@ -10,10 +10,10 @@
 <br><hr>
 <h1>✨ Special ✨</h1><br>
 <a href="https://github.com/arno400/animated-cube" style="margin:30px;display:inline;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arno400&repo=Code-1.7&theme=radical&hide_border=true&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arno400&repo=Code-1.7&theme=radical&hide_border=true&show_owner=true" >
   </a><br><br>
 <a href="https://github.com/arno400/animated-cube" style="margin:30px;display:inline;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arno400&repo=Code-1.7&theme=radical&hide_border=true&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arno400&repo=Code-1.7&theme=radical&hide_border=true&show_owner=true" >
   </a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arno400&theme=dark)<br>

@@ -19,7 +19,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arno400&theme=dark)<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arno400&theme=dark)](https://git.io/streak-stats)<br>
 
-![snake gif](https://github.com/arno400/arno400/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/arno400/arno400/blob/output/github-contribution.svg)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arno400&label=Profile%20views&color=0e75b6&style=flat" alt="arno400" /> </p>
 <!---

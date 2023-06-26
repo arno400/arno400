@@ -10,12 +10,18 @@
 <hr>
 <br>
 
-![Aarav's GitHub stats](https://github-readme-stats.vercel.app/api?username=arno400&theme=cobalt&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)<br><hr><br>
+![Aarav's GitHub stats](https://github-readme-stats.vercel.app/api?username=arno400&theme=cobalt&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
+
+<br><hr><br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arno400&theme=cobalt&hide_border=true&layout=compact)](https://github.com/arno400/github-readme-stats)
 <br><hr>
 <hr>
-<b>🔥 Github Streaks</b><br><br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arno400&theme=dark&hide_border=true)](https://git.io/streak-stats)<br>
+<h1><b>🔥 Github Streaks</b><br></h1>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arno400&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+<br>
 <hr><br>
 
 <h1>✨ Special ✨</h1><br>
@@ -28,10 +34,15 @@
   </a>
 <br>
 <hr>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arno400&theme=github_dark)<br>
 
-<hr>
-![snake gif](https://github.com/arno400/arno400/blob/output/github-contribution.svg)
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arno400&theme=github_dark)
+ 
+<br>
+
+
+
+
+
 
 
 <!---
